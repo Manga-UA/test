@@ -1,0 +1,9 @@
+body {
+	font-size: 30px;
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+}
+h1 {
+	color: hsl(43, 90%, 39%);
+}
